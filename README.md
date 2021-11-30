@@ -14,14 +14,17 @@ And here is what the code creates:
 
 # How Can I Use This?
 
-  1. Open the _United_Healthcare_Dental.ipynb_ file 
+  1. Follow the instructions <a href = "https://developers.google.com/maps/documentation/maps-static/get-api-key">here</a> to get your Google Maps 
+      API key and load the map graphical user interface.
+  
+  2. Open the _United_Healthcare_Dental.ipynb_ file 
       and click on the _Open in Colab_ button.
 
-  2. Replace the list in the code with the list 
+  3. Replace the list in the code with the list 
       emailed to you from UnitedHealthcare and replace 
       the _startingAddress_ with your current address.
 
-  3. Click on _Runtime_ then _Run All_.
+  4. Click on _Runtime_ then _Run All_.
 
   Note: You will need to be signed in to a Google 
         account to execute the code as per Google 
